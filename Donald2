@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
+<link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Cabin" />
+
+<script type="text/javascript" src="/js/jquery.js"></script>
+<script type="text/javascript" src="/js/quiz-1.js"></script>
+
+<style>
+body{background-color: #FFDDFF;}
+
+.imageoftheking {width: 500px;}
+
+h2{font-family: Rockwell-bold, lobster, monospace;
+font-size: 40px; color: #CCBBFF;}
+p{font-family:cabin; font-size:16px;}
+
+.par-margin
+{margin-left:60px;
+margin-right:60px;}
+
+.thick-green-border{
+border-width:10px;
+border-radius:50%;
+border-style:solid;
+border-color: #CCFFFF;}
+
+.queststyle{
+font-family:cabin;
+font-size:16px;}
+
+.picmargin{
+margin-top: 30px;
+margin-bottom:30px;}
+
+h3{
+font-family: Lobster;}
+
+
+</style>
+
+<div style="text-align:center">
+<h2> Donald Trump, Our Hero, the One and Only </h2>
+
+<p> Click <a href="https://www.google.com/search?q=donald+trump%27s+hair&rlz=1C5CHFA_enUS702US702&espv=2&biw=1440&bih=694&source=lnms&tbm=isch&sa=X&ved=0ahUKEwj0gdrrqObOAhUDox4KHZD8BRcQ_AUIBigB#tbm=isch&q=donald+trump%27s+hair+blowing+in+the+wind"> here </a> to view more pictures of our emperor </p>
+
+<img src="http://www.panoramas.pitt.edu/sites/default/files/articles/trump.jpg.crop_display.jpg" alt="The one and only" class="imageoftheking thick-green-border">
+
+<h2> The Beginning: Me, Myself, and I </h2>
+
+<a href="https://www.google.com/?ion=1&espv=2#q=kim%20jong%20un%20young"><img src="http://i1146.photobucket.com/albums/o530/milankundera1/image_zpsbj3qmpnw.jpg" alt="A gorgeous young boy full of potential" class="imageoftheking thick-green-border"></a>
+
+<p class="par-margin"> Legend has it that a double rainbow and a new constellation appeared in the sky to signal the birth of Donald John Trump, in 1946, on top of Mount Rushmore, South Dakota. Present that day to marvel at the monument, visitors reported that a blinding light appeared at the top of the mountain and quickly fainted. A few minutes later, a naked cherub with luscious blond hair drove past the astounded visitors. Saddled to a white horse, the blond cherub stopped in front of them and descended his saddle. Armed with the US constitution, he spoke loudly at the visitors, intermittently raising his one finger to the sky when he seemed to make an important point. Spitting as he raised his hands, the cherub entered in a rhetoric that entranced and seduced his crowd. After his speech, even though nobody truly understood what young Donald J. Trump had said, they reported to feel very satisfied and hopeful. "Things are going to change" they screamed sporadically. He gave them a photo identification and what seemed to be the Constitution of the United States of America covered in amniotic fluid. Upon realizing that he was the baby from the legend, the crowd decided to bring him home, to New York City. To this day, the New Yorkers remember fondly the swarm of people following the "Cherub on the white horse", majestically trotting down 5th Avenue. There was a sense of dread and danger in the air that night, but it was Saturday, and everybody was too drunk to think, or care.
+</p> 
+
+<p> The prophet had returned. </p>
+
+<h2> Adulthood or Regression? </h2>
+
+<p class="par-margin"> Many years later, Donald J. Trump fulfilled his destiny. He made of the United States his playground. His past now behind him, the blond-haired prophet was proud of the accomplishments he had achieved through the years. Official records reportedly show that Trump learned to walk at 3 weeks, and was talking fluently English and French at 8 weeks. While at Fordham University, he apparently bedded 5,000 humans. An impossible feat some may say, being that there are only 1,460 days in 4 years, but not for him. According to his official biography, he was born with the genes of a superior race, allowing him a stamina and intellectual prowess unparraleled by the common mortal. Indeed, the NY times reported that the first time Trump picked a basket ball, he beat Steph Curry 124 to 82. Reports say each of their 14 bodyguards verified the record-breaking feat. The blond-haired Donald then decided to retire from the sport forever in order to become President. </p>
+
+<div class="queststyle">
+<p>Please tell us your thoughts about the hair of the grand leader ! </p>
+<form action="/submit-thoughts-about-prophet">
+<label><input type="radio" name="hair" id="haircheck" required checked>Luscious. Keep growing it Grand Leader!  </label>
+<label><input type="radio" name="hair" id="haircheck">I would like you more bald.</label>
+<label><input type="radio" name="hair" id="haircheck">Please get rid of this profitable corn yellow disgrace!</label>
+<label><input type="radio" name="hair" id="haircheck">Just do a good job in office.</label>
+<label><input type="radio" name="hair" id="haircheck">Where is the <a href="https://www.google.com/?ion=1&espv=2#q=the%20zohan"> Zohan </a> when we need him?</label>
+<p>Here you can submit your thoughts:</p>
+<input type="text" required placeholder="Donald needs attention!">
+<button type="submit" required> Submit</button>
+</form>
+</div>
+
+<!--- Why do I need to add the div element and declare the CSS class "quest style" to overcome the huge size and wrong font. This is not h2 so I don't understand how the h2 selector properties i declared in the style tag are affecting this... --->
+
+
+<h2> Presidency </h2>
+
+<p> The time has come for us to make a decision. </p>
+
+<a href="https://www.google.com/?ion=1&espv=2#q=how%20i%20learned%20to%20love%20the%20bomb"><img src="http://img2-1.timeinc.net/people/i/2015/news/150629/donald-trump-a-1024.jpg" alt="Our prophet" class="imageoftheking thick-green-border picmargin"></a>
+
+
+<p> Yes, my comrades, it has time for us to make a change. To make America great again, the great land that it once was. The green light, once eluding us from the other side of the shore, is now near. We have to be swift, so please revise the summary below before you take the quizz. We are conducting a study to calculate the average intelligence of our supporters and by filling it out, you enter a lottery to win a month long stay at the Trump Hotel in Manhattan!</p>
+
+<h3> Summary </h3>
+<div class="queststyle">
+<ul>
+<li> Donald Trump was born with the US Constitution in 1946 on Mount Rushmore. </li>
+<li> He learned to speak at 8 weeks and beat Steph Curry at Basketball </li>
+<li> His hair is coveted by all the most famous stylist in the world </li>
+<li> Ivanka Trump </li>
+<li> He most likely had a difficult and traumatic childhood </li>
+<li> He has another daughter that nobody really knows </li>
+</ul>
+
+<h3> Quizz </h3>
+
+<p> Choose the correct answer. </p>
+<form action="grade.php" method="post" id="quizz">
+<ol>
+<li> 
+    <label><input type="radio" name="US1" checked required value="a">Donald Trump wrote the          constitution</label> </br>
+    <label><input type="radio" name="US1" value="b">Donald Trump was literally born with the Constitution</label> 
+</li> </br>
+<li> 
+    <label><input type="radio" name="US2" checked required value="a">Donald Trump started speaking at age 6</label> </br>
+    <label><input type="radio" name="US2" value="b">Donald Trump started speaking at 8 weeks French and English (and a bit of Korean).</label> 
+</li> 
+</br>
+<li> 
+    <label><input type="radio" name="US3" checked required value="a">Donald Trump never played Basketball</label> </br>
+    <label><input type="radio" name="US3" value="b">Donald Trump was invited to join the NBA after he beat Steph Curry, but refused.</label>
+</li> </br>
+<li> 
+    <label><input type="radio" name="US4" checked required value="a">Donald Trump is born in 1946</label> </br>
+    <label><input type="radio" name="US4" value="b">Donald Trump is an inter-dimensional being sent from another universe to prove how irrational humans can be</label> </br>
+<label><input type="radio" name="US4" value="c">Both</label>
+</li> </br>
+
+
+<?php
+    
+    $answer1 = $_POST['US1'];
+    $answer2 = $_POST['US2'];
+    $answer3 = $_POST['US3'];
+    $answer4 = $_POST['US4'];
+
+    $totalCorrect = 0;
+    
+    if ($answer1 == "b") { $totalCorrect++; }
+    if ($answer2 == "b") { $totalCorrect++; }
+    if ($answer3 == "b") { $totalCorrect++; }
+    if ($answer4 == "c") { $totalCorrect++; }
+    if ($answer5) { $totalCorrect++; }
+    
+    echo "<div id='results'>$totalCorrect / 5 correct</div>";
+    
+?>
+
+
+<button type="submit" style="margin-top:20px">Soon finished!</button>
+</form>
+
+<div class="picmargin">
+<p> What are your preferences? Recommendations: <p>
+<form action="submit-recommendations-policies" >
+<ol>
+<b><p>Topic I: Immigration</p></b>
+<li>
+   <label><input type="radio" name="pre1">Get Mexico to pay for the wall</label></br>
+   <label><input type="radio" name="pre1">Raise taxes for aliens living in the US in order to fund the wall</label></br>
+<label><input type="radio" name="pre1">Use the money to make more accessible healthcare (just kidding).</label></br>
+</li>
+<b><p>Topic II: Economic Welfare</p></b>
+<li>
+   <label><input type="radio" name="pre2"> More taxes for the 1%! yeah! </label></br>
+   <label><input type="radio" name="pre2"> Let's make America great again! Woohoo!</label></br>
+   <label><input type="radio" name="pre2"> May you save us, Donald J. Trump. </label></br>
+
+</li>
+<b><p>Topic III: Foreign Policy</p></b>
+<li>
+   <label><input type="radio" name="pre3"> What does that mean? </label> </br>
+   <label><input type="radio" name="pre3"> Yeah!!! </label>
+</li>
+</ol>
+<b><p> Other comments? </p></b>
+<input type="text" required placeholder="Share your thoughts">
+<button type="submit">Finally done, now go vote!</button>
+</form>
+</div>
+
+
+
+<!--- 
+
+Official records reportedly show that Kim learned to walk at the age of three weeks, and was talking at eight weeks. While at Kim Il Sung University, he apparently wrote 1,500 books over a period of three years, along with six full operas. According to his official biography, all of his operas are "better than any in the history of music." Then there's his sporting prowess. In 1994, Pyongyang media reported that the first time Kim picked up a golf club, he shot a 38-under par round on North Korea's only golf course, including 11 holes-in-one. Reports say each of his 17 bodyguards verified the record-breaking feat. He then decided to retire from the sport forever.
+
+
+egend has it that a double rainbow and a glowing new star appeared in the heavens to herald the birth of Kim Jong Il, in 1942, on North Korea's cherished Baekdu Mountain. Soviet records, however, indicate he was born in the Siberian village of Vyatskoye, in 1941. The people of North Korea, many of whom are reportedly battling famine, are apparently told that Kim's birthday is celebrated throughout the world. ---> 
+
+
+</div>
+</body>
+</html>
+
