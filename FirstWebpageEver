@@ -1,0 +1,71 @@
+
+<!DOCTYPE html>
+<html>
+<body>
+
+<link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Lobster" />
+
+<style>
+
+body{text-align: center;
+font-family: Monospace;
+background-color: #CCBBFF;}
+
+.h2{
+font-family: Lobster, Monospace;
+font-size: 46px;}
+
+.imagesize{width=300px}
+
+.thickborder{
+border-width: 20px;
+border-radius: 50%;
+border-color: #CCFFFF;
+border-style: solid;}
+
+#p1{font-family:Lobster, Times;}
+
+.textalign{
+text-align: left;}
+
+
+</style>
+
+<h2> Cat Photo App for Dummies </h2>
+
+<p> Click here for other Cat Photos </p>
+
+ <a href="https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=cats"><img src="https://bit.ly/fcc-relaxing-cat" alt="Cat chilling" class="thickborder imagesize"></a>
+
+<p id="p1"> Three things Cats love </p>
+<ul class="textalign">
+<li> Food </li>
+<li> More food </li>
+<li> Dogs </li>
+</ul>
+<p id="p1"> Things cats hate </p>
+<ol class="textalign">
+<li> Other cats </li>
+<li> Humans </li>
+<li> Literally every living organism on the planet </li>
+</ol>
+
+
+<img src="https://bit.ly/fcc-running-cats" alt="running cats" class="thickborder imagesize">
+</br>
+</br>
+<div>
+<form action="/submitcatphotos">
+<label><input type="radio" name="attribute" required checked>Rain</label>
+<label><input type="radio" name="attribute">Sun</labeL>
+<label><input type="checkbox" name="a1" required checked>Grass</label>
+<label><input type="checkbox" name="a1">Sand</label>
+<label><input type="checkbox" name="a1">Rock</label>
+
+<input type="text" required placeholder="Write about cats">
+<button type="submit">Submit this!</button>
+</form>
+</div>
+
+</body>
+</html>
